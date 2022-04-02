@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By NoNICK / ノーニック",
+        "name": "クソダサ日本語修正パック",
+        "uuid": "4ffa7469-3da7-6d4a-a634-fd8e0b9b1b17",
+        "version": [1, 17, 3],
+        "min_engine_version": [1, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "クソダサフォントにお別れを! このリソパを導入して、言語→日本語2 を選択しよう!",
+            "type": "resources",
+            "uuid": "23649e88-6815-f4b3-f127-8116b079fa2b",
+            "version": [1, 17, 3]
+        }
+    ]
+}
